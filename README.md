@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Gaming Community Summer Game Fest 2026
 
 Submitted by: Allan Soria
 
-This web app: Show cases the year 2026 summer gamefest annoucements. 
+This web app: Show cases the 2026 summer gamefest annoucements. 
 
 Time spent: 4 hours spent in total
 
@@ -20,11 +20,11 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [x] Buttons or links to a related resources are on each card component
   - [x] All cards have buttons or links in addition to text
-- [ ] The site is responsive for both desktop and mobile formats
-  - [ ] Web app is shown in a mobile format
-  - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
+- [x] The site is responsive for both desktop and mobile formats
+  - [x] Web app is shown in a mobile format
+  - [x] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
 
 The following **additional** features are implemented:
 
@@ -34,19 +34,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/88Rgpxw"  ><a href="//imgur.com/a/88Rgpxw">prework 1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-Learning more about react and best practices. Learning how to style elements to show case the content well. 
+Challenges encountered included learning React best practices and figuring out how to style elements in a way that showcases the content effectively
 
 ## License
 
