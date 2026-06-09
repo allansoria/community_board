@@ -34,11 +34,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/88Rgpxw"  ><a href="//imgur.com/a/88Rgpxw">prework 1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="./Animation.gif" width="50%" height="50%" alt='Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-[ScreenToGif](https://www.screentogif.com/) for Windows
+ScreenToGif for Windows
 
 
 ## Notes
